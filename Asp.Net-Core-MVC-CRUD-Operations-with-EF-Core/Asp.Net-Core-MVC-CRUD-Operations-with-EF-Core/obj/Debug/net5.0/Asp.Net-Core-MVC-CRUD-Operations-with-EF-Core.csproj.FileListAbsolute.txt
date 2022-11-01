@@ -1,0 +1,2 @@
+D:\ASP.NET Projects\Asp.Net-Core-6.0-MVC-CRUD-Operations-with-EF-Core\Asp.Net-Core-MVC-CRUD-Operations-with-EF-Core\Asp.Net-Core-MVC-CRUD-Operations-with-EF-Core\obj\Debug\net5.0\Asp.Net-Core-MVC-CRUD-Operations-with-EF-Core.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\Asp.Net-Core-6.0-MVC-CRUD-Operations-with-EF-Core\Asp.Net-Core-MVC-CRUD-Operations-with-EF-Core\Asp.Net-Core-MVC-CRUD-Operations-with-EF-Core\obj\Debug\net5.0\Asp.Net-Core-MVC-CRUD-Operations-with-EF-Core.GeneratedMSBuildEditorConfig.editorconfig
